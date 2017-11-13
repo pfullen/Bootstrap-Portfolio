@@ -47,6 +47,7 @@ h3 {
 	font-size: 20px;
 	text-align: center;
 	color: #4aaaa5;
+	padding-left: 25px;
 }
 
 
@@ -64,9 +65,6 @@ h3 {
 	margin: 0 auto;
 }
 
-.main img {
-	height: 170px;
-}
 
 .main p {
 
@@ -74,12 +72,30 @@ h3 {
 
 }
 
+.main img { 
+	height: 200px;
+ }
+
+
+.images {
+	padding-bottom: 25px;
+}
+
+.avatar { 
+	width: 100%;
+	padding-right: 25px;
+	margin-right: 0;
+ }
+
+.navbar-right {
+	margin-right: -30px;
+}
 
 ul {
 	 padding-top: 10px;
-	 padding-right: 20px;
+	
 	 margin-right: 0;
-	 padding-left: 0;
+	 padding-left: 50px;
  }
 
 li {
@@ -119,20 +135,25 @@ margin-bottom: 50px;
 
 .side {
 	background-color: white;
-	padding: 10px;
+	padding: 10px 15px;
+	padding-bottom: 50px;
+	width: 85%;
+	margin-left: 50px;
+	padding-right: 50px;
 }
 
 
 .side img {
 	width: 50px;
 	height: 50px;
+	margin-left: 20px;
 
 }
 
 
-.images {
-	padding: 35px;
-	font: 25px;
+.connect-images {
+	margin: 0 auto;
+	font: 75px;
 
 }
 
