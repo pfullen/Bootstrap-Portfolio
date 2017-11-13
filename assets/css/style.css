@@ -1,0 +1,172 @@
+
+body {
+	background-color: lightgrey;
+	font-size: 20px;
+}
+
+header {
+background-color: white;
+display: block;
+min-height: 100px;
+
+
+}
+
+nav {
+	background-color: white;
+
+}
+
+
+
+h1 {
+	background-color: #4aaaa5;
+	float: left;
+	font-size: 16px;
+	color: #fff;
+	padding: 20px 30px;
+	font-size: 25px;
+
+}
+
+
+h2 {
+
+color: #4aaaa5;
+padding: 10px;
+font-size: 30px;
+
+
+
+}
+
+
+h3 {
+	
+	margin-right: 0;
+	font-size: 20px;
+	text-align: center;
+	color: #4aaaa5;
+}
+
+
+.top {
+	
+ 	
+ 	background-color: white;
+
+}
+
+
+.main-width {
+
+	width: 85%;
+	margin: 0 auto;
+}
+
+.main img {
+	height: 170px;
+}
+
+.main p {
+
+	font-size:  18px;
+
+}
+
+
+ul {
+	 padding-top: 10px;
+	 padding-right: 20px;
+	 margin-right: 0;
+	 padding-left: 0;
+ }
+
+li {
+	padding: 10px;	
+
+}
+
+
+section {
+
+width: 85%;
+margin: 0 auto;
+margin-top: 50px;
+margin-bottom: 50px;
+
+
+}
+
+
+.nav-main {
+	background-color: white;
+	padding: 10px;
+	width: 85%;
+
+
+
+}
+
+.main {
+	background-color: white;
+	padding: 25px;
+
+	
+
+}
+
+
+.side {
+	background-color: white;
+	padding: 10px;
+}
+
+
+.side img {
+	width: 50px;
+	height: 50px;
+
+}
+
+
+.images {
+	padding: 35px;
+	font: 25px;
+
+}
+
+.figure-caption{
+	background-color: #4aaaa5;
+	color:white;
+	font: 24px;
+	
+	text-align: center;
+
+}
+
+
+img {
+
+	width: 100%;
+	height: 170px;
+
+}
+
+
+footer {
+	border-top: 5px solid #4aaaa5;
+	background-color: #666666;
+	margin-bottom: 0;
+	height: 75x;
+	clear: both;
+}
+
+footer p {
+	color: white;
+	text-align: center;
+	margin-bottom: 0;
+	font-size: 15px;
+	padding: 30px 0  ;
+
+}
