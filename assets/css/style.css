@@ -2,6 +2,8 @@
 body {
 	background-color: lightgrey;
 	font-size: 20px;
+	min-height: 100%;
+
 }
 
 header {
@@ -110,6 +112,7 @@ width: 85%;
 margin: 0 auto;
 margin-top: 50px;
 margin-bottom: 50px;
+min-height: 100%;
 
 
 }
@@ -173,6 +176,14 @@ img {
 	height: 170px;
 
 }
+
+
+.forms {
+
+	width: 80%;
+}
+
+
 
 
 footer {
